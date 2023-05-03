@@ -1,0 +1,38 @@
+.counterSettings {
+    height: 300px;
+    width:  350px;
+    border: 2px solid gold;
+    border-radius: 5px;
+    /*margin: 200px auto;*/
+}
+
+.btnField {
+    border-radius: 5px;
+    border: 2px solid gold;
+    width: 250px;
+    padding: 15px 5px;
+    margin: 20px auto;
+}
+
+.settingsBord span {
+    margin-right: 10px;
+
+}
+.settingsBord input {
+    background: goldenrod;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 150px;
+}
+.settingsBord {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.error {
+    border: 2px solid red;
+    color: red;
+}
